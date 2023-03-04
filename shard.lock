@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  anyolite:
+    git: https://github.com/anyolite/anyolite.git
+    version: 1.0.0+git.commit.efe3337f75445b9faad6b32d017f5ff0890db00c
+
