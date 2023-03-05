@@ -3,7 +3,9 @@ require "anyolite"
 
 class Request
   def handle
-    print "."
+    print "+"
+    sleep 0.1
+    print "-"
   end
 end
 
